@@ -1,0 +1,10 @@
+{
+  "DATABASE": {
+    "USERNAME" : "etl_user",
+    "PASSWORD" : "password123",
+    "HOST" :  "127.0.0.1:5432",
+    "DB" : "test_etl",
+    "PORT" : "5432",
+    "SERVER" : "DESKTOP-T7N13GP"
+  }
+}
